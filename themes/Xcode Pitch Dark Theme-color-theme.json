@@ -52,6 +52,7 @@
 		"editorWarning.foreground": "#f5c443",
 		"editorWhitespace.foreground": "#53606e",
 		"editorWidget.background": "#000",
+		"editorGroup.border": "#000",
 		"errorForeground": "#e21514",
 		"focusBorder": "#35628b",
 		"foreground": "#dfdfdf",
@@ -100,8 +101,8 @@
 		"searchEditor.findMatchBackground": "#fffb00",
 		// Side Bar
 		"sideBar.background": "#000",
-		"sideBar.border": "#000000",
-		"sideBarSectionHeader.background": "#00000000",
+		"sideBar.border": "#000",
+		"sideBarSectionHeader.background": "#000",
 		// Status Bar
 		"statusBar.background": "#000",
 		"statusBar.border": "#000",
@@ -125,6 +126,9 @@
 		// Text Link
 		"textLink.activeForeground": "#6699ff",
 		"textLink.foreground": "#6699ff",
+		// Terminal
+		"terminal.border": "#000",
+		"terminalOverviewRuler.border": "#000",
 		// Title
 		"titleBar.activeBackground": "#000",
 		"titleBar.inactiveBackground": "#000",
