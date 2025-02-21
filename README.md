@@ -23,7 +23,7 @@ Bring the syntax color of the Xcode to Visual Studio Code with a fully dark back
 
 ## Changelog
 
-### 1.0.1 - 2025-02-21
+### 1.0.2 - 2025-02-21
 
 - Initial release
 
