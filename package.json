@@ -1,0 +1,39 @@
+{
+  "name": "xcode-pitch-dark-theme",
+  "displayName": "Xcode Pitch Dark Theme",
+  "description": "XCode theme with full dark background",
+  "version": "1.0.0",
+  "publisher": "albertochamorro",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "scripts": {
+    "build": "vsce package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/achamorro-dev/xcode-pitch-dark-theme"
+  },
+  "keywords": [
+    "xcode",
+    "theme",
+    "dark",
+    "pitch",
+    "darkness",
+    "full dark",
+    "fulldark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode Pitch Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode Pitch Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
