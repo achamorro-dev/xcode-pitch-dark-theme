@@ -2,7 +2,7 @@
   "name": "xcode-pitch-dark-theme",
   "displayName": "Xcode Pitch Dark Theme",
   "description": "XCode theme with full dark background",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "albertochamorro",
   "icon": "images/icon.png",
   "engines": {
