@@ -23,7 +23,11 @@ Bring the syntax color of the Xcode to Visual Studio Code with a fully dark back
 
 ## Changelog
 
-### 1.0.2 - 2025-02-21
+## 1.0.4 - 2025-02-21
+
+- Fix debug toolbar background color
+
+### 1.0.3 - 2025-02-21
 
 - Initial release
 

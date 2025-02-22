@@ -10,8 +10,10 @@
 		"breadcrumb.background": "#000",
 		"breadcrumb.focusForeground": "#dcdddd",
 		"breadcrumb.foreground": "#dcdddd",
+		// Debug
 		"debugIcon.breakpointCurrentStackframeForeground": "#007aff",
 		"debugIcon.breakpointForeground": "#007aff",
+		"debugToolBar.background": "#000",
 		// Diff Editor
 		"diffEditor.insertedTextBackground": "#3cff5518",
 		"diffEditor.removedTextBackground": "#ff504418",
