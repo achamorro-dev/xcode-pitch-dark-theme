@@ -33,6 +33,11 @@
         "label": "Xcode Pitch Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode Pitch Dark Theme-color-theme.json"
+      },
+      {
+        "label": "Xcode Pitch Dark Bordered Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode Pitch Dark Bordered Theme-color-theme.json"
       }
     ]
   }

@@ -1,8 +1,10 @@
-# Change Log
+# Changelog
 
 All notable changes to the "xcode-pitch-dark-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.0 - 2025-02-23
+
+- Add new bordered theme version
 
 ## 1.0.4 - 2025-02-21
 

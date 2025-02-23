@@ -19,9 +19,19 @@ Bring the syntax color of the Xcode to Visual Studio Code with a fully dark back
 
 ## Screenshots
 
+### Xcode Pitch Dark Theme
+
 ![Xcode Pitch Dark Theme Screenshot](https://github.com/achamorro-dev/xcode-pitch-dark-theme/blob/main/images/screenshots/xcode-pitch-dark-theme.png?raw=true)
 
+### Xcode Pitch Dark Bordered Theme
+
+![Xcode Pitch Dark Bordered Theme Screenshot](https://github.com/achamorro-dev/xcode-pitch-dark-theme/blob/main/images/screenshots/xcode-pitch-dark-bordered-theme.png?raw=true)
+
 ## Changelog
+
+## 1.1.0 - 2025-02-23
+
+- Add new bordered theme version
 
 ## 1.0.4 - 2025-02-21
 
