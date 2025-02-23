@@ -1,8 +1,8 @@
 # xcode-pitch-dark-theme README
 
-<center>
-<img src="https://raw.githubusercontent.com/achamorro-dev/xcode-pitch-dark-theme/refs/heads/main/images/icon.png" alt="Xcode Pitch Dark Theme Icon" height="128" width="128">
-</center>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/achamorro-dev/xcode-pitch-dark-theme/refs/heads/main/images/icon.png" alt="Xcode Pitch Dark Theme Icon" height="128" width="128">
+</p>
 
 <p align="center">
    <a href="https://marketplace.visualstudio.com/items?itemName=AlbertoChamorro.xcode-pitch-dark-theme" alt="Visual Studio Marketplace Link to the theme">
